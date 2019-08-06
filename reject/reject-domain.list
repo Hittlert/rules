@@ -110,7 +110,7 @@ DOMAIN,ads.wasu.tv
 DOMAIN,afp.wasu.cn
 DOMAIN,afpcreative.wasu.cn
 DOMAIN,mi.gdt.qq.com
-DOMAIN,bj.imp.voiceads.cn
+DOMAIN,bj.imp.voiceads.cn //讯飞营销
 DOMAIN,m.madthumbs.com
 DOMAIN,adm0.autoimg.cn
 DOMAIN,adm1.autoimg.cn
@@ -232,6 +232,3 @@ DOMAIN,syndication.streamads.yahoo.com
 //atv
 DOMAIN,txn.ingest.crittercism.com
 DOMAIN,appload.ingest.crittercism.com
-
-//Google
-DOMAIN,www.google-analytics.com
