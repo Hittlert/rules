@@ -1,0 +1,14 @@
+//Download Tool
+PROCESS-NAME,Thunder
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,115*
+PROCESS-NAME,uTorrent
+
+//RemoteControl Tool
+PROCESS-NAME,TeamViewer*
+PROCESS-NAME,Microsoft Remote Desktop
+
+//Media
+PROCESS-NAME,iTVSeries
+PROCESS-NAME,虾米音乐
+PROCESS-NAME,Plex Media Player*
