@@ -3193,3 +3193,5 @@ DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,atom.io
 #ONEDRIVE
 DOMAIN-SUFFIX,sharepoint.com
+#freebuf
+DOMAIN_SUFFIX,3001.net
