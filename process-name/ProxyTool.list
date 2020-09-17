@@ -1,4 +1,4 @@
 PROCESS-NAME,haproxy
 PROCESS-NAME,v2ray*
 PROCESS-NAME,Shadowsocks*
-PROCESS-NAME,tor.real
+
