@@ -12,9 +12,16 @@ DOMAIN-SUFFIX,gl
 DOMAIN-SUFFIX,fr
 
 #
-DOMAIN-SUFFIX,anidex.info
-DOMAIN-SUFFIX,sspanel.net
-DOMAIN-SUFFIX,lala.im
+DOMAIN-SUFFIX,98tang.com
+DOMAIN-SUFFIX,sexinsex.net
+DOMAIN-SUFFIX,south-plus.net
+DOMAIN-SUFFIX,t66y.com
+
+#
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,v2fly.org
+
+#
 DOMAIN-SUFFIX,0to255.com
 DOMAIN-SUFFIX,1-apple.com.tw
 DOMAIN-SUFFIX,1024.inc.gs
@@ -146,6 +153,7 @@ DOMAIN-SUFFIX,anchorfree.com
 DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,andfaraway.net
 DOMAIN-SUFFIX,angularjs.org
+DOMAIN-SUFFIX,anidex.info
 DOMAIN-SUFFIX,animecrazy.net
 DOMAIN-SUFFIX,aniscartujo.com
 DOMAIN-SUFFIX,anobii.com
@@ -1412,6 +1420,7 @@ DOMAIN-SUFFIX,la-forum.org
 DOMAIN-SUFFIX,labiennale.org
 DOMAIN-SUFFIX,ladbrokes.com
 DOMAIN-SUFFIX,lagranepoca.com
+DOMAIN-SUFFIX,lala.im
 DOMAIN-SUFFIX,lalulalu.com
 DOMAIN-SUFFIX,lamenhu.com
 DOMAIN-SUFFIX,lancome.com
@@ -2297,6 +2306,7 @@ DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,srcf.ucam.org
 DOMAIN-SUFFIX,ssense.com
 DOMAIN-SUFFIX,ssh91.com
+DOMAIN-SUFFIX,sspanel.net
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,stackfile.com
 DOMAIN-SUFFIX,stackoverflow.com
