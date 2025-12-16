@@ -1,5 +1,6 @@
 PROCESS-NAME,v2ray*
 PROCESS-NAME,xray*
 PROCESS-NAME,clash*
+PROCESS-NAME,trojan*
 PROCESS-NAME,shadowsocks*
 PROCESS-NAME,zerotier-one
