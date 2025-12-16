@@ -1,0 +1,5 @@
+PROCESS-NAME,v2ray*
+PROCESS-NAME,xray*
+PROCESS-NAME,clash*
+PROCESS-NAME,shadowsocks*
+PROCESS-NAME,zerotier-one
